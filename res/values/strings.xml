@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidSDK</string>
+    <string name="GPS">GPS</string>
+    <string name="Gyroskop">Gyroskop</string>
+    <string name="Kompass">Kompass</string>
+    <string name="SENSOR">Sensor</string>
+
+</resources>
